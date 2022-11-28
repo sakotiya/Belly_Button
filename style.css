@@ -1,0 +1,10 @@
+body {
+  }
+
+  .jumbotron {
+    background-image: url("../Charts/images.png");
+    background-size: 100% 100%;
+    text-align: center;
+    color: grey; 
+    font-family: 'Optima', sans-serif;
+  }
